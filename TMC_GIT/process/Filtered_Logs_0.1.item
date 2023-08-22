@@ -2,17 +2,17 @@
   <context confirmationNeeded="false" name="Default">
     <contextParameter comment="path of the log file to be downloaded from Dropbox" internalId="_9XFWcEk2Eey9XJ5BPmRVFQ" name="parameter_download_path" prompt="parameter_download_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/Resultado_Job1.csv"/>
     <contextParameter comment="path to upload the result file to on Dropbox" internalId="_9XFWcUk2Eey9XJ5BPmRVFQ" name="parameter_upload_path" prompt="parameter_upload_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/Resultado_Job2.csv"/>
-    <contextParameter comment="" internalId="_VHyd4DrHEe6su7_D1I01cQ" name="connection_dropbox_access_token" prompt="connection_dropbox_access_token?" promptNeeded="false" repositoryContextId="_UmAHsH-UEeSh_srZ_0iReQ" type="id_String" value="sl.BkTMjT8sP30OgBSVLLHsVGdsjk1Ag-BBqZAbHgwDFlV-Lgx7d9sCiURaaGJY0Dt_fJUmToDiZqD4tIEV25FlVNCrQhr-AddLR_plbzNiJbUlUhhnao4ujqh21089HG1fhaBdUu9vzycvUf2v437p"/>
+    <contextParameter comment="" internalId="_VHyd4DrHEe6su7_D1I01cQ" name="connection_dropbox_access_token" prompt="connection_dropbox_access_token?" promptNeeded="false" repositoryContextId="_UmAHsH-UEeSh_srZ_0iReQ" type="id_String" value="sl.BklabEWB_UulMov0Rwjf4nLnkeIWNvlCa70jWgH-Dv_Se8PKFiY2cYngakSf3PlgZscI6yPt5nTmdAfL2We1tIf5a6b9jmws2WZh6735_V_YBmLw9wqJTvJziLqwkdBxPDed3a4mXabLZYwD5xjM"/>
   </context>
   <context confirmationNeeded="false" name="DEV">
     <contextParameter comment="path of the log file to be downloaded from Dropbox" internalId="_9XFWcEk2Eey9XJ5BPmRVFQ" name="parameter_download_path" prompt="parameter_download_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/Resultado_Job1_DEV.csv"/>
     <contextParameter comment="path to upload the result file to on Dropbox" internalId="_9XFWcUk2Eey9XJ5BPmRVFQ" name="parameter_upload_path" prompt="parameter_upload_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/Resultado_Job2_DEV.csv"/>
-    <contextParameter comment="" internalId="_VHyd4DrHEe6su7_D1I01cQ" name="connection_dropbox_access_token" prompt="connection_dropbox_access_token?" promptNeeded="false" repositoryContextId="_UmAHsH-UEeSh_srZ_0iReQ" type="id_String" value="sl.BkTMjT8sP30OgBSVLLHsVGdsjk1Ag-BBqZAbHgwDFlV-Lgx7d9sCiURaaGJY0Dt_fJUmToDiZqD4tIEV25FlVNCrQhr-AddLR_plbzNiJbUlUhhnao4ujqh21089HG1fhaBdUu9vzycvUf2v437p"/>
+    <contextParameter comment="" internalId="_VHyd4DrHEe6su7_D1I01cQ" name="connection_dropbox_access_token" prompt="connection_dropbox_access_token?" promptNeeded="false" repositoryContextId="_UmAHsH-UEeSh_srZ_0iReQ" type="id_String" value="sl.BklabEWB_UulMov0Rwjf4nLnkeIWNvlCa70jWgH-Dv_Se8PKFiY2cYngakSf3PlgZscI6yPt5nTmdAfL2We1tIf5a6b9jmws2WZh6735_V_YBmLw9wqJTvJziLqwkdBxPDed3a4mXabLZYwD5xjM"/>
   </context>
   <context confirmationNeeded="false" name="PROD">
     <contextParameter comment="path of the log file to be downloaded from Dropbox" internalId="_9XFWcEk2Eey9XJ5BPmRVFQ" name="parameter_download_path" prompt="parameter_download_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/Resultado_Job1_PROD.csv"/>
     <contextParameter comment="path to upload the result file to on Dropbox" internalId="_9XFWcUk2Eey9XJ5BPmRVFQ" name="parameter_upload_path" prompt="parameter_upload_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/Resultado_Job2_PROD.csv"/>
-    <contextParameter comment="" internalId="_VHyd4DrHEe6su7_D1I01cQ" name="connection_dropbox_access_token" prompt="connection_dropbox_access_token?" promptNeeded="false" repositoryContextId="_UmAHsH-UEeSh_srZ_0iReQ" type="id_String" value="sl.BkTMjT8sP30OgBSVLLHsVGdsjk1Ag-BBqZAbHgwDFlV-Lgx7d9sCiURaaGJY0Dt_fJUmToDiZqD4tIEV25FlVNCrQhr-AddLR_plbzNiJbUlUhhnao4ujqh21089HG1fhaBdUu9vzycvUf2v437p"/>
+    <contextParameter comment="" internalId="_VHyd4DrHEe6su7_D1I01cQ" name="connection_dropbox_access_token" prompt="connection_dropbox_access_token?" promptNeeded="false" repositoryContextId="_UmAHsH-UEeSh_srZ_0iReQ" type="id_String" value="sl.BklabEWB_UulMov0Rwjf4nLnkeIWNvlCa70jWgH-Dv_Se8PKFiY2cYngakSf3PlgZscI6yPt5nTmdAfL2We1tIf5a6b9jmws2WZh6735_V_YBmLw9wqJTvJziLqwkdBxPDed3a4mXabLZYwD5xjM"/>
   </context>
   <parameters>
     <elementParameter field="CLOSED_LIST" name="LOG4J_RUN_LEVEL" show="false" value="Info"/>
@@ -57,7 +57,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:Y5r7s6QwD44oiq4SO1xKeqeEmZ7C8+nhJuleZc5U"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:4vHxz3a1oeVRefhpW9L1vQpAGZKf7Daqr5UD05dx"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -92,7 +92,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:dt6pyibq60a8ke6xhARyU4lhe9BaoI7iYnaQN3Q/"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:Q6EDyOmyQ3RC//if1RA0Bx52Eh1D1wDD53erFL5z"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -389,13 +389,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_ff49749c-bcdb-45de-8c7c-ad1fd8c9c2b5"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>PG+IPFJpWNpRxRjiXKEeiGFKTLpPvJNw2r+RP8gecVB0DCGgpkKF0hcy5iTn0C3nvyou5NrdBAPv&#13;
-lNSZt+rmbA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_7eff76bf-a000-4e95-98ba-7b7fd79885e5"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>8kbSHeynVhHjxCETqSiyOyFNCfU1DxWL2a5o62oAXptJsIyZwLWxuAxzGLH2YnUitQElBjUHV6yt&#13;
-1+X5DgSiog==</DigestValue></Reference></SignedInfo><SignatureValue>pt7chjdeOAIaH9UqgeZwh9uL1zan4wVnC8suqwaGCNY+xW6TisHU8Fgmh6/+nxdwO6bbh7coz0BE&#13;
-j5wcIg8+xd/SRurgQsupKksjNEiPW0euDoX3o0ydiZZoYhZAjMKzxDo8P4LgLKEabO5YKV5+V5M0&#13;
-3PIic2ZHEJ79fxHED3Ta2qopUfvr2OK0Gs0vKu8/HwxyRxCO13qQoLIyLDf4RadeQB0NZ1WZBSIk&#13;
-1zJQ+1g1v5TNmm1Ijkcx0iY4rqNoSYnQbioiVvfnWwro7EKiQw1g0XjO677LC5Rzed7+F1lVnEmz&#13;
-AyAcx7sH8fgeJj+9iSxVCxMfoVAx/kEUgRWvJw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_7256692c-56fd-4ce6-b5c6-f92301fcb7c5"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Ooyup2XYqfHXZQ//CPhCm/Sb6y9/kNI7MpZ8dvVbgjgwdwYkYEEJe+aK4B6H+NLgCH52nAwaHnML&#13;
+6Acu9voZ8w==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_dd454f64-221f-4d97-8d2e-7e505a2c09c2"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>A7tESYbU3d0Mit9ymfFXeEHOS47punugQrWferup4PdWMhXpRj5OpbVSk0h/tOqu4f37saV912dE&#13;
+AhKKGET9og==</DigestValue></Reference></SignedInfo><SignatureValue>NtizhWTvA1ChyJu5/bD40qmNP/FflGqueHyGge3ZzwmveGJaPwVHVtmoS1tUJvAR4JVZPGIscfuy&#13;
+2Wa9rc7jw+k6MsTpwZ8O87tXZo0iYi8MTYvcpbPgBSM/OHepYDjPGEIeM05X90sdJeBjO/O79eJx&#13;
+CGMgICllAMamV2VnXLt0EcbdkD0Z+L3u9JRm6gzThRB7W75NPbTMSe8Gom9apuJxL4mDSbCqAn/q&#13;
+NjYShv9W7NVZAITV3yLSjabvEH8kfwPpURU5ZhNjSCqH+GZ4EZ1U0r494VNY8uWzqvi2H3lPbHqE&#13;
+SbCdYyr0G+mtq4QQX7kQi/wHGDDGRl2BHE1I8g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -417,4 +417,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_7eff76bf-a000-4e95-98ba-7b7fd79885e5" Target="#_ff49749c-bcdb-45de-8c7c-ad1fd8c9c2b5"><Timestamp>2023-08-22 06:37:09</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_dd454f64-221f-4d97-8d2e-7e505a2c09c2" Target="#_7256692c-56fd-4ce6-b5c6-f92301fcb7c5"><Timestamp>2023-08-22 07:09:40</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
